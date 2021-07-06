@@ -45,3 +45,27 @@ padding-left: 5%;
 
 
 }
+.text-align{
+text-align: center;
+margin: 0 8%;
+margin-bottom: 3%;
+}
+.padding-receipes{
+
+padding-left: 500px;
+color: green;
+}
+.receipe-box{
+    box-shadow: 10px 10px 40px gray;
+  width: 500%;
+  height: 400px;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2%;
+  border-radius: 15px;
+}
+.receipe-box img{
+    width: 100%;
+  height: 60%;
+  border-radius: 10px;
+}
