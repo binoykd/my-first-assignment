@@ -3,6 +3,7 @@ body{
 }
 .flexible-parallel{
     display: flex;
+    margin-bottom: 150px;
 }
 h1{
     font-size: 55px;
@@ -27,4 +28,20 @@ padding-left: 5%;
    border: 5px;
    border-radius: 30px;
    font-weight: 700;
+}
+#second-lady{
+    width: 40%;
+    padding-left: 250px;
+    
+}
+#text-format{
+    padding-right: 250px;
+}
+#second-section{
+    background-image: url(images/shapes/bg1.png);
+    background-repeat: no-repeat;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+
 }
