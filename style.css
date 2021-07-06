@@ -69,3 +69,27 @@ color: green;
   height: 60%;
   border-radius: 10px;
 }
+.last-section{
+    box-shadow: 5px 10px 10px 10px grey;
+    margin-bottom: 10px;
+    display: flex;
+    margin-bottom: 5%;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 5px;
+    border-radius: 10px; 
+}
+.gap{
+   margin-left: 10px; 
+   margin-right: 10px;
+}
+.text-color2{
+    color: darkblue;
+}
+footer{
+    color:white;
+    background-color: black;
+    
+    padding-top: 1%;
+    text-align: center;
+}
